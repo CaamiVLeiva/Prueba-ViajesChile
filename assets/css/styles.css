@@ -13,7 +13,7 @@ section{
 }
 
 .colored-icon{
-    background-color: #0dcaf0;
+    background-color: #2a9ba6;
     font-size: 2rem;
 }
 
@@ -26,18 +26,14 @@ div.col-md-4 > P{
     transition: transform 0.3s ease-out;
 }
 .card-body{
-    background-color: #0dcaf0;
+    background-color: #2a9ba6;
 }
 
 h5.card-title{
     color: white;
 }
 
-button{
-    color: #0dcaf0;
-}
-
 footer{
-    background-color: #0dcaf0;
+    background-color: #2a9ba6;
     font-weight:300;
 }
