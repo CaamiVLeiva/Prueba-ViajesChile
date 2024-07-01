@@ -32,3 +32,7 @@ div.col-md-4 > P{
 h5.card-title{
     color: white;
 }
+
+button{
+    color: #0dcaf0;
+}
